@@ -1,0 +1,24 @@
+0010/Celular/lumia/Nokia/Lumia 635/1400.0/Smartphone/4.5 pulgadas
+0011/Celular/moto/Motorola/XT 1058/2300.0/Smartphone/4.7 pulgadas
+0012/Celular/optimus/LG/P659 F3/900.0/Smartphone/4 pulgadas
+0014/Celular/xperia/Sony/ Xperia E1 D2004/700.0/Smartphone/4 pulgadas
+0015/Celular/g3/LG/G3 D855/1700.0/Smartphone/5.5 pulgadas
+0016/Celular/galaxyn/Samsung/Note 3 N900W8 /2010.0/Smartphone/5.7 pulgadas
+0017/Celular/galaxys5/Samsung/Galaxy S5 G900/2500.0/Smartphone/5.1 pulgadas
+0018/Celular/gimini/LG/G2 Mini D625 /1000.0/Smartphone/4.7 pulgadas
+0019/Celular/iphone5s/Apple/iPhone 5 32GB/2800.0/Smartphone/4 pulgadas
+0013/Celular/optimusg/LG/Optimus G E976/2200.0/Smartphone /4.7 pulgadas
+0020/Tablet/Apple/Apple/MultiTouch /250.0/tecnologíaIPS/1024 x 768
+0021/Tablet/Galaxi/Samsung/Galaxy/450.0/PantallaTactil/1021x 762
+0022/Tablet/Toshiba/Toshiba/ multitoque/650.0/Procesador Intel/1024 x 600
+0023/Tablet/HPT4/hp/Touch/543.0/Pantalla LCD de 7/1024 x 600
+0024/Tablet/AOCT/AOC/MultiTouch/678.0/Pantalla IPS de 7/1280 x 720
+0025/Tablet/LGT/LGT/Touch Screen/456.0/LCD de 7/1024 x 600
+0026/Laptop/Laptop1/Sony/ Multi-Touch/1200.0/Doble Uso/1024 x 768
+0027/Laptop/Laptop2/hp/BrightView/2340.0/Core i3-3210M/1366 x 768)
+0028/Laptop/Laptop3/Samsung/Flex 10/1230.0/Pantalla LED/1345x765
+0029/Laptop/Laptop4/LG/ Dual Core/123.0/Pantalla LED/1235x657
+0030/Laptop/Laptop5/acer/aspire e1/1200.0/Intel HD Graphics/1366 x 768
+0031/Laptop/Laptop6/Toshiba/advance/1280.0/Pantalla LED HD/1364 x 765
+0032/Laptop/Laptop7/Lenovo/AVB 345/1500.0/Corel i3/1456 x 700
+0033/Laptop/Laptop8/Samsung/Flex 10/1425.0/Pantalla Táctil /1324x757
